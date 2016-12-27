@@ -1,0 +1,6 @@
+c:\users\iaman\documents\visual studio 2015\Projects\Associations\Associations\bin\Debug\Associations.exe.config
+C:\Users\iaman\documents\visual studio 2015\Projects\Associations\Associations\bin\Debug\Associations.exe
+C:\Users\iaman\documents\visual studio 2015\Projects\Associations\Associations\bin\Debug\Associations.pdb
+C:\Users\iaman\documents\visual studio 2015\Projects\Associations\Associations\obj\Debug\Associations.csprojResolveAssemblyReference.cache
+C:\Users\iaman\documents\visual studio 2015\Projects\Associations\Associations\obj\Debug\Associations.exe
+C:\Users\iaman\documents\visual studio 2015\Projects\Associations\Associations\obj\Debug\Associations.pdb
